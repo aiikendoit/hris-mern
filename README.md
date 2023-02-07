@@ -1,3 +1,3 @@
-# hris-mern
+# AMC-Bacolod HRIS SYSTEM
 
-BAMC HRIS SYSTEM
+MERN Stack
